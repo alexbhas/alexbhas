@@ -7,4 +7,4 @@ I'm a software developer from Ottawa, Canada.
 My areas of interest include:<br>
 Accessibility, AI, Full Stack Development, iOS development, and Cybersecurity.
 
-I'm currently working on projects using Svelte, Python, and cloud technologies.
+I'm currently obsessed with Svelte, and use it for the majority of my full stack projects. For back-end development, I either use Flask or ExpressJS.
